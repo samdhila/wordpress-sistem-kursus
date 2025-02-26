@@ -1,5 +1,16 @@
 # Laravel Sistem Administrasi Survei
 
+# Table of Contents
+
+- [Laravel Sistem Administrasi Survei](#laravel-sistem-administrasi-survei)
+  - [Deskripsi Sistem](#deskripsi-sistem)
+  - [Detail Sistem](#detail-sistem)
+  - [Alur Sistem](#alur-sistem)
+  - [Live Demo](#live-demo)
+  - [Setup Project](#setup-project)
+    - [Pre-requirements](#pre-requirements)
+    - [Local Installation](#local-installation)
+
 ## Deskripsi Sistem
 **Sistem Administrasi Survei** adalah platform yang dirancang dengan menggunakan **Laravel 8** untuk mengelola data survei secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam memanipulasi dan memantau data survei.
 
@@ -25,8 +36,6 @@
 Untuk demo percobaan aplikasi **Laravel Sistem Administrasi Survei**, bisa dilakukan pada
 [URL Live Demo](https://survey.samreact.my.id/) ini.\
 
-![Demo Administrasi Survei GIF](./preview/demo_survei.gif)
-
 **Credential Admin (DEMO)**:\
 admin@survey.com\
 1234
@@ -34,6 +43,10 @@ admin@survey.com\
 **Credential Surveyor (DEMO)**:\
 agus@survey.com\
 password
+
+![Demo Administrasi Survei Admin #01 GIF](https://github.com/samdhila/media/blob/main/laravel/lara01-optimized.gif)
+![Demo Administrasi Survei Admin #02 GIF](https://github.com/samdhila/media/blob/main/laravel/lara02-optimized.gif)
+![Demo Administrasi Survei User #01 GIF](https://github.com/samdhila/media/blob/main/laravel/lara03-optimized.gif)
 
 ## Setup Project
 

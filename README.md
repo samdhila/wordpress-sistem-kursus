@@ -1,8 +1,8 @@
-# Laravel Sistem Administrasi Survei
+# WordPress Sistem Manajemen Kursus
 
 # Table of Contents
 
-- [Laravel Sistem Administrasi Survei](#laravel-sistem-administrasi-survei)
+- [WordPress Sistem Manajemen Kursus](#wordpress-sistem-manajemen-kursus)
   - [Deskripsi Sistem](#deskripsi-sistem)
   - [Detail Sistem](#detail-sistem)
   - [Alur Sistem](#alur-sistem)
@@ -12,16 +12,14 @@
     - [Local Installation](#local-installation)
 
 ## Deskripsi Sistem
-**Sistem Administrasi Survei** adalah platform yang dirancang dengan menggunakan **Laravel 8** untuk mengelola data survei secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam memanipulasi dan memantau data survei.
+**Sistem Manajemen Kursus** adalah platform yang dirancang dengan menggunakan **WordPress** untuk membuat dan mengelola konten Learning Management System (LMS) atau E-Learning. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam membuat dan mempublikasi konten kursus online.
 
 ## Detail Sistem
-- Menggunakan library **Spatie Permission** untuk integrasi sistem **Role**
-- Sistem mempunyai 2 **Role**:
-  - **Admin**
-  - **Surveyor**
-- Menggunakan library **Yajra Datatable** untuk mengelola tabel data
-- **Color-coded** Datatable
-- **Batch** manipulasi data menggunakan ***checkmark***
+- Menggunakan plugin **Tutor LMS** untuk integrasi sistem E-Learning.
+- Menggunakan WordPress theme **TutorStarter**, theme yang disediakan oleh **Tutor LMS**.
+- Menggunakan template **Marketplace**, template yang tersedia untuk theme **TutorStarter**.
+- Menggunakan plugin **Elementor** sebagai web builder dan untuk memodifikasi layout halaman website.
+- Menggunakan **custom plugin** untuk integrasi library **Prism.js** sebagai **Codeblock Highlighter**.
 
 ## Alur Sistem
 - Login sebagai **Admin** atau **Surveyor**.

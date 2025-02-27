@@ -12,14 +12,14 @@
     - [Local Installation](#local-installation)
 
 ## Deskripsi Sistem
-**Sistem Manajemen Kursus** adalah platform yang dirancang dengan menggunakan **WordPress** untuk membuat dan mengelola konten Learning Management System (LMS) atau E-Learning. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam membuat dan mempublikasi konten kursus online.
+**Sistem Manajemen Kursus** adalah platform yang dibangun dengan menggunakan **WordPress** untuk membuat dan mengelola konten Learning Management System (LMS) atau E-Learning. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam membuat dan mempublikasi konten kursus online.
 
 ## Detail Sistem
 - Menggunakan plugin **Tutor LMS** untuk integrasi sistem E-Learning.
 - Menggunakan WordPress theme **TutorStarter**, theme yang disediakan oleh **Tutor LMS**.
 - Menggunakan template **Marketplace**, template yang tersedia untuk theme **TutorStarter**.
 - Menggunakan plugin **Elementor** sebagai web builder dan untuk memodifikasi layout halaman website.
-- Menggunakan **custom plugin** untuk integrasi library **Prism.js** sebagai **Codeblock Highlighter**.
+- Menggunakan **custom plugin** untuk integrasi library JavaScript **Prism.js** sebagai **Codeblock Highlighter**.
 
 ## Alur Sistem
 - Login sebagai **Admin** atau **Surveyor**.
@@ -31,16 +31,8 @@
 - **Admin** akan konfirmasi data yang sudah **Done**.
 
 ## Live Demo
-Untuk demo percobaan aplikasi **Laravel Sistem Administrasi Survei**, bisa dilakukan pada
-[URL Live Demo](https://survey.samreact.my.id/) ini.\
-
-**Credential Admin (DEMO)**:\
-admin@survey.com\
-1234
-
-**Credential Surveyor (DEMO)**:\
-agus@survey.com\
-password
+Untuk demo percobaan aplikasi **WordPress Sistem Manajemen Kursus**, bisa dilakukan pada
+[URL Live Demo](https://learning.samreact.my.id/) ini.\
 
 ![Demo Administrasi Survei Admin #01 GIF](https://github.com/samdhila/media/blob/main/laravel/lara01-optimized.gif)
 ![Demo Administrasi Survei Admin #02 GIF](https://github.com/samdhila/media/blob/main/laravel/lara02-optimized.gif)
@@ -60,14 +52,14 @@ password
 ```
 
 ### Local Installation
-Clone project **Sistem Administrasi Survei**
+Clone project **Sistem Manajemen Kursus**
 ```bash
-  git clone https://github.com/samdhila/laravel_administrasi_survei.git
+  git clone https://github.com/samdhila/wordpress_manajemen_kursus.git
 ```
 
 Buka CMD pada directory project
 ```bash
-  cd laravel_administrasi_survei
+  cd wordpress_manajemen_kursus
 ```
 
 Install composer

@@ -33,4 +33,3 @@ Untuk demo percobaan aplikasi **WordPress Sistem Manajemen Kursus**, bisa dilaku
 
 ![Demo Administrasi Survei Admin #01 GIF](https://github.com/samdhila/media/blob/main/laravel/lara01-optimized.gif)
 ![Demo Administrasi Survei Admin #02 GIF](https://github.com/samdhila/media/blob/main/laravel/lara02-optimized.gif)
-![Demo Administrasi Survei User #01 GIF](https://github.com/samdhila/media/blob/main/laravel/lara03-optimized.gif)
